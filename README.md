@@ -14,7 +14,7 @@ Documentación:
 Uso:
 
 * Ejecutar aplicación.
-* El home solo muestra [un contralador](http://localhost:8080/rendering/render/index). Esa liga, genera un pdf de ejemplo.
+* El home solo muestra [un controlador](http://localhost:8080/rendering/render/index). Esa liga, genera un pdf de ejemplo.
 * El XHTML para generar el pdf se encuentra en /grails-app/views/render/_pdf.gsp
 
 Sale, bai.
