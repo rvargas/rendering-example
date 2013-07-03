@@ -17,4 +17,8 @@ Uso:
 * Desde el home se puede cargar un XHTML personalizado, o bien generar el html usando el xhtml precargado.
 * El XHTML precargado se encuentra en /grails-app/views/render/_pdf.gsp
 
+Ejemplo
+
+* [Rendering en Cloudbees](http://rendering.rvvinco.cloudbees.net/)
+
 Sale, bai.
