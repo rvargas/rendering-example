@@ -14,7 +14,7 @@ Documentación:
 Uso:
 
 * Ejecutar aplicación.
-* El home solo muestra [un controlador](http://localhost:8080/rendering/render/index). Esa liga, genera un pdf de ejemplo.
-* El XHTML para generar el pdf se encuentra en /grails-app/views/render/_pdf.gsp
+* Desde el home se puede cargar un XHTML personalizado, o bien generar el html usando el xhtml precargado.
+* El XHTML precargado se encuentra en /grails-app/views/render/_pdf.gsp
 
 Sale, bai.
